@@ -1,8 +1,8 @@
 # Neon Coast — GTA-style Cover Studio
 
 [![make.fun](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01)
-[![rank](https://make.fun/badge/cryptocollectorid/gta6-cover-art-01/rank.svg)](https://make.fun/bounty/gta6-cover-art-01)
-[![reward](https://make.fun/badge/cryptocollectorid/gta6-cover-art-01/reward.svg)](https://make.fun/bounty/gta6-cover-art-01)
+[![rank](https://make.fun/badge/cryptocollectorid/neon-coast-cover-studio/rank.svg)](https://make.fun/bounty/gta6-cover-art-01)
+[![reward](https://make.fun/badge/cryptocollectorid/neon-coast-cover-studio/reward.svg)](https://make.fun/bounty/gta6-cover-art-01)
 
 An offline browser web app that turns a person's photo and a caption into
 GTA-style cover art — the multi-panel poster / loading-screen look with a Vice
